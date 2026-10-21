@@ -2,7 +2,9 @@
 
 A simple omelette recipe page built with HTML and CSS for the Frontend Mentor recipe page challenge. It uses an earthy color palette, serif typography, and rounded recipe sections.
 
-![Omelette featured in the recipe](assets/images/image-omelette.jpeg)
+This is my first HTML and CSS project, created to practice building and styling a web page.
+
+![Recipe photo](assets/images/bakd-raw-by-karolin-baitinger-SCZP5rvZINk-unsplash.jpg)
 
 ## Features
 
