@@ -3,7 +3,7 @@ body{
     background-color:#EFEFE9;
     color: #333;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin:20px;
+    margin:0px;
     padding: 10px 20px;
 
 }
@@ -54,8 +54,9 @@ h2{
     background-color: #E8D9CD;
     padding: 30px;
     border-radius:20px;
-    max-width:650px;
-    margin: 10px auto;
+    max-width:900px;
+    margin: auto;
+    margin-top: 30px;
 }
 
 ul li{
@@ -71,11 +72,20 @@ ol li {
 
 
 img{
-    max-width: 100%;
+    max-width: 800px;
     height:auto;
     border-radius:20px;
+    display: block;
+    margin: 0 auto;
+
 }
 
+#img1{
+  width: 90%;
+  height: 300px;
+  object-fit: cover;
+  object-position: center 35%;
+}
 
 th,td { 
   padding: 12px;
